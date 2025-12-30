@@ -1,5 +1,0 @@
-I manually tested the sticky notes application in the browser.
-I created a new note using the “Add new note” link and confirmed it saved correctly.
-I opened a note to view its details and confirmed the correct title and content display.
-I edited an existing note and confirmed the changes were saved and shown on the list page.
-I deleted a note and confirmed it was removed from the list.
